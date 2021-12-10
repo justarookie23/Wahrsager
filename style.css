@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+.div {
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    margin: auto;
+    border-color: black;
+    border: 2px;
+}
+
+img {
+   object-fit: contain;
+   height: 300px;
+   width: 300px;
+}
+
+#input-btn {
+    border-radius: 50%;
+    background-color: blue;
+}
